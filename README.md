@@ -2,9 +2,9 @@
 This repository contains relevant image processing plugins relevant to Fenris development
 
 ## To Do
-[x] Add video exposure correction plugin
-[] Add superresolution code
-[] Add deblurring code
+- [x] Add video exposure correction plugin
+- [ ] Add superresolution code
+- [ ] Add deblurring code
 
 ## Table of Contents
 
